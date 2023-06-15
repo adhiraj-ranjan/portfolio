@@ -22,7 +22,7 @@ const config = {
     dev: '',
     stackoverflow: '', // format: userid/username
     skype: '',
-    telegram: '',
+    telegram: 'adhirajranjan',
     website: '',
     phone: '',
     email: 'adhirajranjan10@gmail.com',
