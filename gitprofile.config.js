@@ -39,6 +39,8 @@ const config = {
     'PostgreSQL',
     'Git',
     'CSS',
+    'Android Development|Java',
+    'Backend Development'
   ],
   /*experiences: [
     {
